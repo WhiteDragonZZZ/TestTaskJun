@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+<nameFile>XML file</nameFile>
+    <people>
+        <Worker>
+            <fullName>Козлов Василий Игнатьев</fullName>
+            <dateOfBorn>19.10.1977</dateOfBorn>
+            <dateOffer>20-06-1998</dateOffer>
+            <identificatedCode>1201</identificatedCode>
+            <salary>500000</salary>
+        </Worker>
+        <Worker>
+            <fullName>Шимаров Андрей Алибекович</fullName>
+            <dateOfBorn>21.11.1987</dateOfBorn>
+            <dateOffer>16-07-2007</dateOffer>
+            <identificatedCode>1202</identificatedCode>
+            <salary>600000</salary>
+        </Worker>
+
+        <Worker>
+            <fullName>Фатхулла Айбек</fullName>
+            <dateOfBorn>22.04.1977</dateOfBorn>
+            <dateOffer>20-06-2021</dateOffer>
+            <identificatedCode>1203</identificatedCode>
+            <salary>700000</salary>
+        </Worker>
+
+        <Worker>
+            <fullName>Курманов Еркебулан Куатович</fullName>
+            <dateOfBorn>23.01.1966</dateOfBorn>
+            <dateOffer>22-10-1998</dateOffer>
+            <identificatedCode>1204</identificatedCode>
+            <salary>900000</salary>
+        </Worker>
+
+
+        <Worker>
+            <fullName>Benjamin</fullName>
+            <dateOfBorn>22.01.1986</dateOfBorn>
+            <dateOffer>21-10-1998</dateOffer>
+            <identificatedCode>1304</identificatedCode>
+            <salary>900000</salary>
+        </Worker>
+
+        <Worker>
+            <fullName>Alex</fullName>
+            <dateOfBorn>13.01.1946</dateOfBorn>
+            <dateOffer>22-10-2001</dateOffer>
+            <identificatedCode>1305</identificatedCode>
+            <salary>1200000</salary>
+        </Worker>
+
+
+        <Worker>
+            <fullName>Fuji</fullName>
+            <dateOfBorn>23.01.1956</dateOfBorn>
+            <dateOffer>12-10-2001</dateOffer>
+            <identificatedCode>1306</identificatedCode>
+            <salary>300000</salary>
+        </Worker>
+
+        <Worker>
+            <fullName>Lannes</fullName>
+            <dateOfBorn>23.01.1966</dateOfBorn>
+            <dateOffer>22-10-1998</dateOffer>
+            <identificatedCode>1307</identificatedCode>
+            <salary>8900000</salary>
+        </Worker>
+
+    </people>
+    <top-people>
+        <Manager>
+            <fullName>Отархан Дастан</fullName>
+            <dateOfBorn>7.07.1977</dateOfBorn>
+            <dateOffer>29-07-1998</dateOffer>
+            <identificatedCode>11</identificatedCode>
+            <salary>750000</salary>
+        </Manager>
+
+        <Manager>
+            <fullName>Napoleon</fullName>
+            <dateOfBorn>7.07.1977</dateOfBorn>
+            <dateOffer>23-07-1898</dateOffer>
+            <identificatedCode>12</identificatedCode>
+            <salary>750000</salary>
+        </Manager>
+    </top-people>
+
+</root>
